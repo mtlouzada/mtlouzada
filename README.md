@@ -28,8 +28,8 @@
 ---
 
 ### Main skills:
-HTML
-CSS
++ HTML
++ CSS
 GIT
 GITHUB
 SQL
