@@ -37,5 +37,6 @@
 ### Estudando:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node]
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=footer"/>
