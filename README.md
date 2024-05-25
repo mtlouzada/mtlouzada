@@ -30,14 +30,14 @@
 ### Main skills:
 + HTML
 + CSS
-GIT
-GITHUB
-SQL
++ GIT
++ GITHUB
++ SQL
 
 ### Estudando:
-React
-JavaScript
-Node
-C#
++ React
++ JavaScript
++ Node
++ C#
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=footer"/>
