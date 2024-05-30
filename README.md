@@ -32,7 +32,6 @@
 + CSS
 + GIT
 + GITHUB
-+ SQL
 
 ### Estudando:
 + React
