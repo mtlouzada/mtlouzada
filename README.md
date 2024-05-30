@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Louzada;Tenho+24+anos;E+sou+do+Brasil;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Louzada;Tenho+25+anos;E+sou+do+Brasil;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 <div align="center">
 <b>DESENVOLVEDOR WEB |  FRONT-END | 👨🏻‍💻</b>   
@@ -28,16 +28,9 @@
 ---
 
 ### Main skills:
-+ HTML
-+ CSS
-+ GIT
-+ GITHUB
-+ SQL
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Estudando:
-+ React
-+ JavaScript
-+ Node
-+ C#
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=footer"/>
