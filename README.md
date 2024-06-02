@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dc0909&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Louzada;Tenho+25+anos;E+sou+do+Brasil;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dc0909&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Louzada;Tenho+25+anos;E+sou+do+Brasil;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 <div align="center">
 <b>DESENVOLVEDOR WEB |  FRONT-END | 👨🏻‍💻</b>   
@@ -21,8 +21,8 @@
  </div>
   
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mtlouzada&show_icons=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtlouzada&layout=compact&hide_border=true&title_color=0077B5&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mtlouzada&show_icons=true&count_private=true&hide_border=true&title_color=dc0909&icon_color=0077B5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtlouzada&layout=compact&hide_border=true&title_color=dc0909&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ---
@@ -33,4 +33,4 @@
 ### Estudando:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dc0909&height=120&section=footer"/>
