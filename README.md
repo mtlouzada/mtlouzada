@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dc0909&size=35&center=true&vCenter=true&width=1000&lines=WELCOME)](https://git.io/typing-svg)
 
 <div align="center">
-<b>DESENVOLVEDOR WEB |  FRONT-END | 👨🏻‍💻</b>   
+<b>FRONT-END WEB DEVELOPMENT 👨🏻‍💻</b>   
 </div>
 
 <blockquote>
     <p><i>
-       Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar. Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer. - Alan Turing
+       I believe that sometimes it's the people that no one expects anything from that do the things that no one can imagine. - Alan Turing
     </i></p>
 </blockquote>
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Main skills:
+### Main Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Studying:
