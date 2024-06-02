@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dc0909&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dc0909&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Louzada;Tenho+25+anos;E+sou+do+Brasil;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dc0909&size=35&center=true&vCenter=true&width=1000&lines=WELCOME)](https://git.io/typing-svg)
 
 <div align="center">
 <b>DESENVOLVEDOR WEB |  FRONT-END | 👨🏻‍💻</b>   
