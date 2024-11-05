@@ -8,7 +8,7 @@
 
 <blockquote>
     <p><i>
-       I believe that sometimes it's the people that no one expects anything from that do the things that no one can imagine. - Alan Turing
+       Sometimes it's the people that no one expects anything from that do the things that no one can imagine. - Alan Turing
     </i></p>
 </blockquote>
 
