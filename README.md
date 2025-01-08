@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b5&size=35&center=true&vCenter=true&width=1000&lines=⌐◨-◨)](https://git.io/typing-svg)
 
 <div align="center">
-<b>WEB3 DEVELOPER 📦</b>   
+<b>DEVELOPER</b>   
 </div>
 
 <blockquote>
